@@ -1,0 +1,7 @@
+{
+  "appname": "vibram-app",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "4779C564-D3FA-4DD2-95EB-61AA274EBCAC",
+  "buyerid": "vibram-buyer",
+  "environment": "prod"
+}
